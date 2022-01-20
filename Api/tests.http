@@ -1,0 +1,3 @@
+### Parameter Endpoint test
+GET http://localhost:5000/parameter
+Accept: "application/json"
